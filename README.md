@@ -191,7 +191,6 @@ pytest -v
 * PostgreSQL
 * SQLAlchemy + Alembic
 * Pytest
-* Docker (опционально)
 
 ---
 
